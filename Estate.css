@@ -310,7 +310,7 @@ header > div {
         transform: scale(1.1);
     } 
     .bdy{
-        min-height: 60vh;
+        min-height: 65vh;
         display:flex;
         align-items: center;
         justify-content: center;
