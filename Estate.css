@@ -178,6 +178,7 @@ header > div {
         color: black;
         font-weight: lighter;
         font-family: sans-serif;
+          cursor: pointer;
     }
     .we{
         text-align: center;
