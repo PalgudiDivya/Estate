@@ -84,9 +84,16 @@ button{
     height:60px;
     width:200px;
     border-radius: 20%;
-    color: aquamarine;
+    color: black;
     background-color: white;
 
+}
+button:hover {
+    background-color: #3498db; /* Nice blue color */
+    color: white;
+    transform: scale(1.05); /* Slightly enlarge on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    cursor:pointer;
 }
 footer{
 
